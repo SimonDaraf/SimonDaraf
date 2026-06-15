@@ -14,6 +14,8 @@
 ### Frontend
 ![WPF](https://img.shields.io/badge/-.NET%20WPF-512BD4?&style=for-the-badge)
 ![VueJS](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=white&style=for-the-badge)
 
 ### Backend
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?&style=for-the-badge)
