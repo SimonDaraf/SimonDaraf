@@ -1,9 +1,9 @@
-# Halloj! I'm Simon!
+# Hej! I'm Simon! 🇸🇪
 * I am a newly graduated fullstack developer from Linnaeus University with a B.Sc. in Computer Science. I have a passion for creating software of any kind, whether for mobile, web or desktop.
 * Recently helped with the development a prototype Android application in collaboration with an independent entrepreneur as part of my university internship.
 * Currently developing a booking site for a non-profit organization ⛵
 
-## Tech-Stack I've worked with 🔧
+## Tech Stacks I've worked with 🔧
 
 ### Languages
 ![C%23](https://img.shields.io/badge/-C%23-512BD4?&style=for-the-badge)
